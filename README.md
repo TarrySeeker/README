@@ -24,8 +24,8 @@
   <a href="https://t.me/tarry_seeker">
     <img src="https://cdn-icons-png.flaticon.com/128/1313/1313686.png" alt="LinkedIn Badge" width="30px">
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://cdn-icons-png.flaticon.com/512/253/253802.png" alt="Mail" width="30px">
+  <a href="<script>print="akekbol@gmail.com"</script>>
+    <img src="https://cdn-icons-png.flaticon.com/512/253/253802.png" alt="telegram" width="30px">
   </a>
 
 </div>
