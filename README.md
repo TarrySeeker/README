@@ -22,7 +22,7 @@
 ### connection:
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/1313/1313686.png" alt="LinkedIn Badge" width="30px">
   </a>
   <a href="your-youtube-URL">
     <img src="https://cdn-icons-png.flaticon.com/512/253/253802.png" alt="Mail" width="30px">
