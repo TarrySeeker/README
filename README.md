@@ -21,9 +21,7 @@
 
 ### connection:
 <div id="badges">
-  <a href="https://t.me/tarry_seeker">
-    <img src="https://cdn-icons-png.flaticon.com/128/1313/1313686.png" alt="LinkedIn Badge" width="30px">
-  </a>
+ ✉️ mail [akekbol@gmail.com](mailto:akekbol@gmail.com)
   <a href="https://t.me/tarry_seeker">
     <img src="https://cdn-icons-png.flaticon.com/512/253/253802.png" alt="telegram" width="30px">
   </a>
